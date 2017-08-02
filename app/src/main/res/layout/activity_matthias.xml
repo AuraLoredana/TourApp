@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/matthiasorvinus"
+    tools:context="com.example.popescu.tourapp.Matthias">
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="The Matthias Corvinus Monument is a monument in Cluj-Napoca, Romania. This classified historic monument, conceived by János Fadrusz and opened in 1902 "
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="30dp"
+        android:gravity="center_horizontal"
+        android:paddingTop="50dp"
+        android:textColor="#fff"/>
+</android.support.constraint.ConstraintLayout>

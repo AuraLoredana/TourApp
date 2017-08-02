@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/roatarestaurant"
+    tools:context="com.example.popescu.tourapp.Roata">
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="368dp"
+        android:paddingLeft="20dp"
+        android:layout_height="wrap_content"
+        android:text="Roata Restaurant: http://restaurant-roata.ro/"
+        android:textColor="#fff"
+        android:paddingTop="50dp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="31dp" />
+</android.support.constraint.ConstraintLayout>

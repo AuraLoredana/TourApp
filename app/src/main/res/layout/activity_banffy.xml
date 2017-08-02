@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/banffy"
+    tools:context="com.example.popescu.tourapp.Banffy">
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="25dp"
+        android:paddingLeft="20dp"
+        android:text="Bánffy Castle is an architectural monument situated in Bonţida, a village in the vicinity of Cluj-Napoca, Romania, with construction phases and stylistic features belonging to Renaissance, Baroque, Neoclassical and Neogothic styles."
+        android:textAlignment="viewStart"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:gravity="center_horizontal"/>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/camino"
+    tools:context="com.example.popescu.tourapp.Camino">
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="368dp"
+        android:paddingTop="50dp"
+        android:layout_height="wrap_content"
+        android:text="The Palace is dating from the 16th century.The restaurant is located in a Palace dating from the 16th century, which during the years was the residence of a very rich and respected family. Over time it changed many times its purpose, getting to be even a maternity."
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="37dp"
+        android:textColor="#fff"/>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dormitionofthetheotokos"
+    tools:context="com.example.popescu.tourapp.Dormition">
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The Dormition of the Theotokos Cathedral is the most famous Romanian Orthodox church of Cluj-Napoca, Romania."
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:paddingTop="50dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="61dp" />
+</android.support.constraint.ConstraintLayout>

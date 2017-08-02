@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/untold"
+    tools:context="com.example.popescu.tourapp.Untold">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:paddingTop="40dp"
+        android:paddingLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Untold Festival is the largest annual electronic music festival held in Romania, taking place in Cluj-Napoca. Untold has been designated Best Major Festival within European Festival Awards 2015"
+        tools:gravity="center"
+        android:textColor="#fff"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="22dp" />
+
+</android.support.constraint.ConstraintLayout>
