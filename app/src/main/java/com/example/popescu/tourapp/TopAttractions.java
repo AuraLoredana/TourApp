@@ -11,7 +11,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 public class TopAttractions extends AppCompatActivity {
-    Context context;
+    private Context context;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
